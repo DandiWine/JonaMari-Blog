@@ -50,3 +50,4 @@ featureimage: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN216N3Rid3VlODU
 ![](/images/art/Untitled65_20240214080043.png)
 
 ![](/images/art/Untitled105_20221024073730.png)
+EOF
