@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /
-Sitemap: http://localhost:1313/ICT-Resources/sitemap.xml
+Allow: /
+Sitemap: https://dandiwine.github.io/ICT-Resources/sitemap.xml

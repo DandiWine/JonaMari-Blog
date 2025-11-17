@@ -10,16 +10,15 @@ type: page
 
 ## Core Reasons
 
-I am an ICT Student, and the more i learn the more i really think i should document a lot.
-I got tired of constantly snooping in my Google drive and making all these documents.
-The more you learn the more important it is to take notes.
-the more you document, the faster you can work in case you forget and coffee isn't enough.
+I'm a big fucking nerd, but beside that here is a more detailed explination.
 
-So my initial thought became to build my own site with hugo and hosting it on GitHub.
-It has been hectic and a bit technical, but with time and efforot i eventually got it online.
+Before i started IT i always had a deep intrest in learning when that little spark of intrest hit me, some people call me autistic for that. i call it knowing what i want.
 
-My goal with this mainly is to pressrve my lessons for the public and for my collegues in my classroom.
-To spread around infromation for the nerdy that don't know where to start.
+So i went on a journey, and i did all sorts of things, from graphic design, music production, photography, drawing, writing, psychology and so on.
+
+And now it is mainly Tech. and i always wanted my own website so here it is, kind of a blog, kind of a everything. **I hope you enjoy your stay!**
+
+![welcome](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnppZjZycDRwNW8yenZudHo2czkxaHhqZWM5ZzZ1cm5ranBpMDd5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LfQgUNXcLPVXHWAdXn/giphy.gif)
 
 
 **More to come in the future**

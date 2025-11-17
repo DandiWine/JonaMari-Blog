@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Dandiwine"
+title = "JonaMari"
 
 [params]
   displayName = "EN"
@@ -15,13 +15,14 @@ title = "Dandiwine"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-name = "Dandiwine"
+name = "JonaMari"
 #   email = "youremail@example.com"
 image = "https://i.scdn.co/image/ab6761610000e5ebea0fca89f3dbd39dd60d73cf"
 imageQuality = 96
 headline = "ICT Student And skill learning nerd"
 # bio = "20 Years old"
-#   links = [
+links = [
+{youtube = "https://www.youtube.com/@JonaMari"},
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -70,7 +71,6 @@ headline = "ICT Student And skill learning nerd"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+ ]

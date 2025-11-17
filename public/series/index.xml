@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Series on Dandiwine</title>
-    <link>http://localhost:1313/ICT-Resources/series/</link>
-    <description>Recent content in Series on Dandiwine</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2025 Dandiwine</copyright>
-    <atom:link href="http://localhost:1313/ICT-Resources/series/index.xml" rel="self" type="application/rss+xml" />
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Series on JonaMari</title><link>https://dandiwine.github.io/ICT-Resources/series/</link><description>Recent content in Series on JonaMari</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 JonaMari</copyright><atom:link href="https://dandiwine.github.io/ICT-Resources/series/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

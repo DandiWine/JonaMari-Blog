@@ -1,5 +1,5 @@
 ---
-title:  "The Importance of Troublesshooting"
+title:  "The Importance of Troubleshooting"
 ---
 
 ### Why Document?
