@@ -19,8 +19,16 @@ featureimage: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN216N3Rid3VlODU
 
 ![](https://media.discordapp.net/attachments/1410782923719704742/1439818315550691399/Untitled38_202309201111501.png?ex=691be6cc&is=691a954c&hm=c979eaa5180ac42cba1e2d4d7ff58340148132bd13bc86897fe71a6d6095b45c&=&format=webp&quality=lossless&width=923&height=923)
 
-![]()
+![](https://media.discordapp.net/attachments/1410782923719704742/1439841531673444382/Untitled65_20240214073718.png?ex=691bfc6c&is=691aaaec&hm=015d225993a79823b47ed1d08b0a935003470fbc1ab3f44049c8f75307fe7755&=&format=webp&quality=lossless&width=819&height=819)
 
-![]()
+![](https://media.discordapp.net/attachments/1410782923719704742/1439841532415967293/Untitled54_20240208173155.png?ex=691bfc6c&is=691aaaec&hm=2b0818972d2fa3d1032a9f631ccc2e7732d3e16d1158e5b26e081ad2b91ae955&=&format=webp&quality=lossless&width=819&height=819)
 
-![]()
+![](https://media.discordapp.net/attachments/1410782923719704742/1439841532948512788/Untitled52_20220907190657.png?ex=691bfc6c&is=691aaaec&hm=9cd0b45a95fdffb0a45240f467800805b3d1bb1829f31110b58e67f86ab6730b&=&format=webp&quality=lossless&width=614&height=819)
+
+![](https://media.discordapp.net/attachments/1410782923719704742/1439841534039167028/Untitled49_20240204205027.png?ex=691bfc6c&is=691aaaec&hm=c77475131889458c42c032aea51e3ce49767348b0fd5383adb3b8436a405a89e&=&format=webp&quality=lossless&width=1347&height=819)
+
+![](https://media.discordapp.net/attachments/1410782923719704742/1439841534991269988/Untitled48_20220907175736.png?ex=691bfc6c&is=691aaaec&hm=38b7c5dc7a1895fe76d5156854549f1c9392aa771d2f7016c20021e15f918907&=&format=webp&quality=lossless&width=614&height=819)
+
+![](https://media.discordapp.net/attachments/1410782923719704742/1439841940475609299/Untitled240_20240826230817.png?ex=691bfccd&is=691aab4d&hm=b9c643949bb3ca3f6944e9fb158a8eaab36508806872ef2b2c768a21d08a2b86&=&format=webp&quality=lossless&width=1715&height=772)
+
+![](https://media.discordapp.net/attachments/1410782923719704742/1439841941364670494/Untitled240_20240826230654.png?ex=691bfccd&is=691aab4d&hm=738f582b2f9d1cd9ec0e4281e6a8f56c4c446be2bd83e2b6ae830cfa0806b62a&=&format=webp&quality=lossless&width=1715&height=772)
