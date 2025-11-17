@@ -7,19 +7,9 @@ featureimage: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN216N3Rid3VlODU
 
 *soon i will add year dates*
 
-![](/images/art/1000013723_mirror3.jpg)
-
-![](/images/art/1000013723_mirror2.jpg)
-
-![](/images/art/1000013651_mirror2.jpg)
-
-![](/images/art/1000002347_mirror.jpg)
-
-![](/images/art/1000009981_mirror.jpg)
-
 ![](/images/art/the.embedment-28-01-2024-0001.jpeg)
 
-![](/images/art/Untitled38_20230920111150\(1\).png)
+![](/images/art/Untitled38_20230920111150(1).png)
 
 ![](/images/art/Untitled65_20240214073718.png)
 
@@ -45,8 +35,10 @@ featureimage: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN216N3Rid3VlODU
 
 ![](/images/art/Untitled124_20221112233156.png)
 
+![](/images/art/Untitled110_20221030152357.png)
+
+![](/images/art/Untitled105_20221024073730.png)
+
 ![](/images/art/Untitled100_20240311163020.png)
 
 ![](/images/art/Untitled65_20240214080043.png)
-
-![](/images/art/Untitled105_20221024073730.png)
