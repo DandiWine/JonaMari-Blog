@@ -5,30 +5,48 @@ featureimage: "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN216N3Rid3VlODU
 
 # my works over the years
 
-![](https://cdn.discordapp.com/attachments/1410782923719704742/1439811935100211283/1000013723_mirror3.jpg?ex=691be0db&is=691a8f5b&hm=3b569a295a55566d7ff965b4223024aa40ba0c2ce24877e95599f2ed316d1f9c)
+*soon i will add year dates*
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439815298533294180/1000013723_mirror2.jpg?ex=691be3fd&is=691a927d&hm=06eeb495c0cf4378d26d5670695bb3baea672dd5d97dddce5f6eecdfdf2523d0&=&format=webp&width=1456&height=819)
+![](/images/art/1000013723_mirror3.jpg)
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439815298923499672/1000013651_mirror2.jpg?ex=691be3fd&is=691a927d&hm=90f00cd65dfd7d7ae9e32b8f5a760144d2829b547c7685b6a737a9fce07a4bcb&=&format=webp&width=1456&height=819)
+![](/images/art/1000013723_mirror2.jpg)
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439815300412604706/1000002347_mirror.jpg?ex=691be3fe&is=691a927e&hm=a21e466e25148a34dab5504febd61d35c62dbf0e0016e734cdb05aa8c0b689a4&=&format=webp&width=1092&height=819)
+![](/images/art/1000013651_mirror2.jpg)
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439815298051084320/1000009981_mirror.jpg?ex=691be3fd&is=691a927d&hm=3716bb77fb3cccc9be06f7db0603445d668926034ce542163ddf2b1878f32949&=&format=webp&width=819&height=819)
+![](/images/art/1000002347_mirror.jpg)
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439816491750129795/the.embedment-28-01-2024-0001.jpeg?ex=691be51a&is=691a939a&hm=12a5ae7e47bc6302c9fb2261d2110b8aefdc483427aa7e36cca5926a9497b863&=&format=webp&width=738&height=923)
+![](/images/art/1000009981_mirror.jpg)
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439818315550691399/Untitled38_202309201111501.png?ex=691be6cc&is=691a954c&hm=c979eaa5180ac42cba1e2d4d7ff58340148132bd13bc86897fe71a6d6095b45c&=&format=webp&quality=lossless&width=923&height=923)
+![](/images/art/the.embedment-28-01-2024-0001.jpeg)
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439841531673444382/Untitled65_20240214073718.png?ex=691bfc6c&is=691aaaec&hm=015d225993a79823b47ed1d08b0a935003470fbc1ab3f44049c8f75307fe7755&=&format=webp&quality=lossless&width=819&height=819)
+![](/images/art/Untitled38_20230920111150\(1\).png)
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439841532415967293/Untitled54_20240208173155.png?ex=691bfc6c&is=691aaaec&hm=2b0818972d2fa3d1032a9f631ccc2e7732d3e16d1158e5b26e081ad2b91ae955&=&format=webp&quality=lossless&width=819&height=819)
+![](/images/art/Untitled65_20240214073718.png)
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439841532948512788/Untitled52_20220907190657.png?ex=691bfc6c&is=691aaaec&hm=9cd0b45a95fdffb0a45240f467800805b3d1bb1829f31110b58e67f86ab6730b&=&format=webp&quality=lossless&width=614&height=819)
+![](/images/art/Untitled54_20240208173155.png)
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439841534039167028/Untitled49_20240204205027.png?ex=691bfc6c&is=691aaaec&hm=c77475131889458c42c032aea51e3ce49767348b0fd5383adb3b8436a405a89e&=&format=webp&quality=lossless&width=1347&height=819)
+![](/images/art/Untitled52_20220907190657.png)
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439841534991269988/Untitled48_20220907175736.png?ex=691bfc6c&is=691aaaec&hm=38b7c5dc7a1895fe76d5156854549f1c9392aa771d2f7016c20021e15f918907&=&format=webp&quality=lossless&width=614&height=819)
+![](/images/art/Untitled49_20240204205027.png)
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439841940475609299/Untitled240_20240826230817.png?ex=691bfccd&is=691aab4d&hm=b9c643949bb3ca3f6944e9fb158a8eaab36508806872ef2b2c768a21d08a2b86&=&format=webp&quality=lossless&width=1715&height=772)
+![](/images/art/Untitled48_20220907175736.png)
 
-![](https://media.discordapp.net/attachments/1410782923719704742/1439841941364670494/Untitled240_20240826230654.png?ex=691bfccd&is=691aab4d&hm=738f582b2f9d1cd9ec0e4281e6a8f56c4c446be2bd83e2b6ae830cfa0806b62a&=&format=webp&quality=lossless&width=1715&height=772)
+![](/images/art/Untitled240_20240826230817.png)
+
+![](/images/art/Untitled240_20240826230654.png)
+
+![](/images/art/Untitled175_20240610074553.png)
+
+![](/images/art/Untitled135.jpg)
+
+![](/images/art/Untitled133_20240407173800.png)
+
+![](/images/art/Untitled126_20240402183106.png)
+
+![](/images/art/Untitled124_20221112233156.png)
+
+![](/images/art/Untitled100_20240311163020.png)
+
+![](/images/art/Untitled65_20240214080043.png)
+
+![](/images/art/Untitled105_20221024073730.png)
