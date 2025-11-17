@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Troubleshooting on JonaMari</title><link>https://dandiwine.github.io/ICT-Resources/troubleshooting/</link><description>Recent content in Troubleshooting on JonaMari</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2025 JonaMari</copyright><atom:link href="https://dandiwine.github.io/ICT-Resources/troubleshooting/index.xml" rel="self" type="application/rss+xml"/><item><title>The Importance of Troubleshooting</title><link>https://dandiwine.github.io/ICT-Resources/troubleshooting/importance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://dandiwine.github.io/ICT-Resources/troubleshooting/importance/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Troubleshooting on JonaMari</title>
+    <link>https://dandiwine.github.io/JonaMari-Blog/troubleshooting/</link>
+    <description>Recent content in Troubleshooting on JonaMari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 JonaMari</copyright>
+    <atom:link href="https://dandiwine.github.io/JonaMari-Blog/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Importance of Troubleshooting</title>
+      <link>https://dandiwine.github.io/JonaMari-Blog/troubleshooting/importance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dandiwine.github.io/JonaMari-Blog/troubleshooting/importance/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
