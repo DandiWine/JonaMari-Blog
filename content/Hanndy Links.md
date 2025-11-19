@@ -10,7 +10,7 @@ This list is made thanks to me but also my friends in IT.
 
 handy script for homelabs and automating bulk users
 
-``# === CONFIGURATION ===
+`# === CONFIGURATION ===
 $csvPath = "C:\Temp\users.csv"      # path to your CSV file
 $ouPath = "CN=Users,DC=ServerMoos,DC=local"  # adjust if needed
 $defaultPassword = "P@ssw0rd!"      # change to a secure password
@@ -31,6 +31,6 @@ foreach ($user in $users) {
 
     Write-Output $cmd
     Invoke-Expression $cmd
-}``
+}`
 
 {{< tech_links >}}
