@@ -9,15 +9,15 @@ title = "JonaMari"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "https://cdn-icons-png.freepik.com/512/76/76200.png"
-  secondaryLogo = "https://cdn-icons-png.freepik.com/512/76/76200.png"
+  # logo = "https://cdn-icons-png.freepik.com/512/76/76200.png"
+  # secondaryLogo = "https://cdn-icons-png.freepik.com/512/76/76200.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
 name = "JonaMari"
 #   email = "youremail@example.com"
-image = "https://i.scdn.co/image/ab6761610000e5ebea0fca89f3dbd39dd60d73cf"
+  # image = "https://i.scdn.co/image/ab6761610000e5ebea0fca89f3dbd39dd60d73cf"
 imageQuality = 96
 headline = "ICT Student And skill learning nerd"
 # bio = "20 Years old"
