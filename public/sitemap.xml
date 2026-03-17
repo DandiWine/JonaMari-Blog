@@ -18,12 +18,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dandiwine.github.io/JonaMari-Blog/troubleshooting/importance/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://dandiwine.github.io/JonaMari-Blog/troubleshooting/</loc>
+    <loc>https://dandiwine.github.io/JonaMari-Blog/intresting/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
