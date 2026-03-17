@@ -1,5 +1,6 @@
 ---
 Title: "Important Links That Helped Me In My studies."
+draft: true
 ---
 
 ### Accept that you can't know everything

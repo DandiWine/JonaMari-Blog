@@ -3,9 +3,6 @@ Title: Welcome!
 type: page
 ---
 
-
-![welcome](https://imgs.search.brave.com/2h2Xlbf73_Zww8UwknAENTkGTh3BhWgaAPKA2HRWmow/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWUt/d2F2ZS00OTgteC0y/ODktZ2lmLWt0a2k1/eHBndmZsb2d4ZXYu/Z2lm.gif)
-
 # Why i made this website?
 
 ## Core Reasons

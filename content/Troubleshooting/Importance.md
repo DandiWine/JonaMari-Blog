@@ -1,5 +1,6 @@
 ---
 title:  "The Importance of Troubleshooting"
+draft: true
 ---
 
 ### Why Document?
