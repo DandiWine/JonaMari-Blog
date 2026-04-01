@@ -3,27 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://dandiwine.github.io/JonaMari-Blog/it-documentation/</loc>
+    <loc>http://localhost:1313/JonaMari-Blog/it-topics/common-ports/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dandiwine.github.io/JonaMari-Blog/</loc>
+    <loc>http://localhost:1313/JonaMari-Blog/it-topics/cyber-attacks-_malare-ransomeware-dos.docx/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dandiwine.github.io/JonaMari-Blog/networking/</loc>
+    <loc>http://localhost:1313/JonaMari-Blog/it-topics/it-documentation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dandiwine.github.io/JonaMari-Blog/intresting/</loc>
+    <loc>http://localhost:1313/JonaMari-Blog/it-topics/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dandiwine.github.io/JonaMari-Blog/about-me/</loc>
+    <loc>http://localhost:1313/JonaMari-Blog/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/JonaMari-Blog/it-topics/networking-terms/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/JonaMari-Blog/it-topics/purpose-of-the-physical-layer/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/JonaMari-Blog/it-topics/test/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/JonaMari-Blog/intresting/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/JonaMari-Blog/about-me/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
