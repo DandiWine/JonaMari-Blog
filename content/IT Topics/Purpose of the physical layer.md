@@ -1,7 +1,6 @@
 ---
 title: Purpose of the physical layer
 featureimage: "https://imgs.search.brave.com/j8XCZyylZc3ZvT3jaRLy39p0WU20h-ZJFTKGO3bPICM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLmhvd3RvZ2Vl/a2ltYWdlcy5jb20v/d29yZHByZXNzL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzEw/L1JvdXRlci1IZWFk/ZXIuanBnP3E9NDkm/Zml0PWNyb3Amdz00/MjImZHByPTI"
-draft: true
 ---
 
 

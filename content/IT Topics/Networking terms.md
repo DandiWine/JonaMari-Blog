@@ -2,7 +2,6 @@
 title: Networking Terminology
 catagories: "networking"
 featureimage: "https://imgs.search.brave.com/3N7ZIpy49K9TVPnKL_pty5dP4J5osNmx6OhKHhIshuM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aW9ub3MuY29tL2Rp/Z2l0YWxndWlkZS9m/aWxlYWRtaW4vX3By/b2Nlc3NlZF8vNS8x/L2NzbV9ib25qb3Vy/LXRfZGEyMWY4ZDZi/Yi53ZWJw"
-draft: true
 ---
 
 

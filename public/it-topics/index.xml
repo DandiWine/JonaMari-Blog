@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JonaMari</title>
-    <link>http://localhost:1313/JonaMari-Blog/</link>
-    <description>Recent content on JonaMari</description>
+    <title>IT Topics on JonaMari</title>
+    <link>http://localhost:1313/JonaMari-Blog/it-topics/</link>
+    <description>Recent content in IT Topics on JonaMari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 JonaMari</copyright>
-    <atom:link href="http://localhost:1313/JonaMari-Blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/JonaMari-Blog/it-topics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>common ports</title>
@@ -65,26 +65,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/JonaMari-Blog/it-topics/test/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Topics worth looking into</title>
-      <link>http://localhost:1313/JonaMari-Blog/intresting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/JonaMari-Blog/intresting/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Welcome!</title>
-      <link>http://localhost:1313/JonaMari-Blog/about-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/JonaMari-Blog/about-me/</guid>
       <description></description>
       
     </item>

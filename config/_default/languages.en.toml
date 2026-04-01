@@ -17,7 +17,7 @@ title = "JonaMari"
 [params.author]
 name = "JonaMari"
 #   email = "youremail@example.com"
-  # image = "https://i.scdn.co/image/ab6761610000e5ebea0fca89f3dbd39dd60d73cf"
+  image = "https://i.scdn.co/image/ab6761610000e5ebea0fca89f3dbd39dd60d73cf"
 imageQuality = 96
 headline = "ICT Student And skill learning nerd"
 # bio = "20 Years old"

@@ -1,7 +1,7 @@
 ---
 title: common ports
 catagories: "networking"
-draft: true
+type: post
 ---
 
 ### World Wide Web Protocols
